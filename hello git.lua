@@ -1,3 +1,7 @@
+function c()
+	print("C")
+end
 function test()
-	print("hihi")
+	local a = 123
+	print(c)
 end
