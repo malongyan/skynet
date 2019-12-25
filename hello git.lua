@@ -1,7 +1,6 @@
-function c()
-	print("C")
-end
+function t()end
 function test()
-	local a = 123
-	print(c)
+	local a = 1
+	print("hihi11")
+	print(a)
 end
