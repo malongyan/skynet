@@ -1,1 +1,3 @@
-hello git111112222
+function test()
+	print("hihi")
+end
